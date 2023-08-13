@@ -1,0 +1,3 @@
+//query for downloading schema
+
+./gradlew downloadApolloSchema --endpoint='https://countries.trevorblades.com/graphql' --schema=app/src/main/graphql/com/plcoding/schema.gr

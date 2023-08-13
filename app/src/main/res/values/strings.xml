@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GraphQlCountriesApp</string>
+    <string name="continent">Continent:</string>
+    <string name="capital">Capital:</string>
+    <string name="currency">Currency:</string>
+    <string name="language_s">Language(s):</string>
+</resources>
