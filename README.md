@@ -8,4 +8,4 @@
   4.  Apollo Client for API calling
 
  # Application Screenshots
-<img src="https://github.com/arashjit-singh/GraphQlCountriesApp/blob/master/app/src/main/screenshot/device-2023-08-13-104916.gif" width=50% height=50%>
+<img src="https://github.com/arashjit-singh/GraphQlCountriesApp/blob/master/app/src/main/screenshot/RunningApp.gif">
